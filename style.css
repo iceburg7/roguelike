@@ -2,6 +2,33 @@
 
 
 
+
+
+.show{
+	display:block;
+}
+
+.hide{
+	display:none;
+}
+
+
+
+.light{
+	background-color:white;
+}
+
+.dim{
+	background-color:gainsboro;
+}
+
+.dark{
+	background-color:black;
+}
+
+
+
+
 .wrapper{
 	height:500px;
 	width:1030px;
@@ -34,15 +61,19 @@
 }
 
 .row{
-	height:100px;
+	height:50px;
 	width:400px;
 }
 
 .room{
-	height:100px;
-	width:100px;
+	height:50px;
+	width:50px;
 	float:left;
 }
+
+
+
+
 
 
 
